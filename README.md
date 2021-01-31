@@ -13,3 +13,8 @@ Prepare `config.json`.
     }
 }
 ```
+
+## Run
+0. Prepare `config.json`.
+1. `npm i`
+2. `node app`
