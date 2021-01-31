@@ -1,0 +1,25 @@
+{
+  "name": "bakamitai-bot",
+  "version": "1.0.0",
+  "description": "Post random \"bakamitai\" memes gif when people send \"だめだね\" in Discord",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-cron": "^2.0.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonyChops/bakamitai-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonyChops/bakamitai-bot/issues"
+  },
+  "homepage": "https://github.com/BonyChops/bakamitai-bot#readme"
+}
