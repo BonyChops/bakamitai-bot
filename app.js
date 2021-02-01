@@ -4,7 +4,7 @@ const fs = require("fs");
 const { resolve } = require('path');
 const config = JSON.parse(fs.readFileSync("./config.json"));
 const request = require('request');
-const terms = ["だめだね", "ダメだね"];
+const terms = ["だめ", "ダメ"];
 const cron = require("node-cron");
 
 
